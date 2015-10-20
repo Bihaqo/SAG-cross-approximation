@@ -1,0 +1,13 @@
+*.ipynb_checkpoints/
+*.pyc
+*.so
+*f2pywrappers2*
+tt/build/*
+.DS_STORE
+quadgauss/build/
+*module.c*
+tt/doc/_build
+*~
+*.mod
+*.a
+.ropeproject/
